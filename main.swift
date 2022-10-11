@@ -10,5 +10,10 @@ import Foundation
 let input = readLine()?.components(separatedBy: " ")
 
 if let a = input?.first {
+    if a == "exit" {
+        exit(0)
+    }
     print(a)
 }
+
+
