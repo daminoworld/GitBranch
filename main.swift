@@ -12,3 +12,5 @@ let input = readLine()?.components(separatedBy: " ")
 if let a = input?.first {
     print(a)
 }
+
+//작업
