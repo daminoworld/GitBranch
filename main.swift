@@ -8,11 +8,6 @@
 import Foundation
 
 let input = readLine()?.components(separatedBy: " ")
-
-if let a = input?.first {
-    print(a)
-}
-
 //작업
 //작업1-1
 //작업2
@@ -21,3 +16,8 @@ if let a = input?.first {
 //작업5
 //작업6
 //작업7
+//작업8
+if let a = input?.first {
+    print(a)
+}
+
