@@ -17,6 +17,7 @@ let input = readLine()?.components(separatedBy: " ")
 //작업6
 //작업7
 //작업8
+//작업9
 if let a = input?.first {
     print(a)
 }
